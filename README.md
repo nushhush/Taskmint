@@ -17,7 +17,7 @@ Welcome to the Tezos project Marketplace! This decentralized application (DApp) 
 
 ## Additional Information
 - **Technology Stack**: The project utilizes technologies such as Tezos blockchain, JsLigo, React Js, and NFT storage for decentralized storage.
-- **Contact**: For any inquiries or support, please contact our team at akshatsri47 on github.
+- **Contact**: For any inquiries or support, please contact our team at nushhush on github.
 
 - ## Images
 
